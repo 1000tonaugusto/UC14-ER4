@@ -57,3 +57,4 @@ D:\UC14\ER1\Chapter1000ton\Chapter1000ton\obj\Debug\net6.0\refint\Chapter1000ton
 D:\UC14\ER1\Chapter1000ton\Chapter1000ton\obj\Debug\net6.0\Chapter1000ton.pdb
 D:\UC14\ER1\Chapter1000ton\Chapter1000ton\obj\Debug\net6.0\Chapter1000ton.genruntimeconfig.cache
 D:\UC14\ER1\Chapter1000ton\Chapter1000ton\obj\Debug\net6.0\ref\Chapter1000ton.dll
+D:\UC14\ER1\Chapter1000ton\Chapter1000ton\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,5 +1,6 @@
 ﻿using Chapter1000ton.Models;
 using Chapter1000ton.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,6 +11,9 @@ namespace Chapter1000ton.Controllers
     [Route("api/[controller]")]
 
     [ApiController]
+
+
+    [Authorize(Roles ="0")]
     public class LivroController : ControllerBase
     {
         private readonly LivroRepository _livroRepository;
